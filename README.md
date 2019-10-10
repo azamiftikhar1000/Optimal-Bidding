@@ -1,3 +1,4 @@
+### OPTIMAL BIDDING
 There are four sources from which the electricity demand can be fulfilled. There are certain constraints
 on the max electricity we can use from a source. Developed an algorithm to solve the optimization
 problem with an objective to minimize the daily electricity bill of the as a whole. The bid quantities
